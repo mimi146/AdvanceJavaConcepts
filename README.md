@@ -1,2 +1,2 @@
 # AdvanceJavaConcepts
-This repo is ade to practice advance JAVA concepts likes  multi-threading, lamdas, semaphore conceptually as well practically
+This repo is made to practice advanced Java concepts like multithreading, lambdas, and semaphores both conceptually and practically.
